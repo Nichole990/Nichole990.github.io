@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Nichole"
-  pronouns         : "she"  
+  pronouns         : # 
   bio              : "Short biography for the left-hand sidebar"
   location         : "Macao"
   employer         : "Macao University of Science and Technology"
