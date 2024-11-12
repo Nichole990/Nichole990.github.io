@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "This is Nichole's world!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My English name is Nichole, Chese name is Puning Zhang.
+Welcome to my world!  Hope you enjoy this small site.
